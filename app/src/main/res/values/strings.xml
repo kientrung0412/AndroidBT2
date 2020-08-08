@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidBT2</string>
+    <string name="back">Back</string>
+    <string name="search">Search</string>
+    <string name="send">Send</string>
+    <string name="delete">Delete</string>
+</resources>
